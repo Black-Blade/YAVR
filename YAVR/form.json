@@ -1,0 +1,32 @@
+{
+    "elements":
+    [
+        { "name": "var_host", "type": "ValidationTextBox", "caption": "yavr ip" },
+        { "name": "var_port", "type": "NumberSpinner", "caption": "port" }, 
+        { "name": "var_zone", "type": "Select", "caption": "zone", "options": 
+        [
+            { "label": "main zone", "value": "Main_Zone" },
+            { "label": "zone 2", "value": "Zone_2" },
+            { "label": "zone 3", "value": "Zone_3" },
+            { "label": "zone 4", "value": "Zone_4" }
+        ] 
+        },
+        
+        { "name": "var_updateinterval","type": "IntervalBox","caption": "uptime (x) seconds"}
+    ],
+    "actions":
+    [
+        { "type": "Button", "label": "power on", "onClick": "YAVR_SetPower($id, 0);" },
+        { "type": "Button", "label": "standby", "onClick": "YAVR_SetPower($id, 1);" }
+    ],
+    "status":
+    [
+        { "code": 101, "icon": "active", "caption": "yavr is created" },
+        { "code": 102, "icon": "active", "caption": "yavr is aktiv" },
+        { "code": 103, "icon": "active", "caption": "yavr will be deleted" },
+        { "code": 201, "icon": "error", "caption": "yavr is not available" },
+        { "code": 202, "icon": "error", "caption": "unknown error occurred" }
+        ,
+        { "code": 203, "icon": "error", "caption": "yavr error" }
+    ]
+}

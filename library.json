@@ -1,0 +1,12 @@
+{
+    "id": "{3EAE71F9-6D9D-31E5-4747-7133B7736B24}",
+    "name": "YAVR",
+    "author": "Back-Blade",
+    "url": "https://github.com/Black-Blade/YAVR.git",
+    "compatibility": {
+        "version": "6.0"
+    },
+    "version": "1.0",
+    "build": 0,
+    "date": 1699696751
+}

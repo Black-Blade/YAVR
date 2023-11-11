@@ -1,0 +1,49 @@
+{
+    "translations": {
+        "de": {
+            "yavr ip": "YAVR IP",
+            "port":"Port",
+            "zone":"Zone",
+            "main zone":"Main Zone",
+            "zone 2":"Zone 2",
+            "zone 3":"Zone 3",
+            "zone 4":"Zone 4",
+            
+            "uptime (x) seconds" :"Aktualisierung (x) Sekunden",
+            "power on" :"Einschalten",
+            "standby" :"Standby",
+            "yavr is created":"YAVR wird erstellt",
+            "yavr is aktiv":"YAVR ist aktiv",
+            "yavr will be deleted":"YAVR wird gelöscht",
+            "yavr is not available":"YAVR ist nicht erreichbar",
+            "unknown error occurred":"Unbekannter Fehler ist aufgetreten",
+            "yavr error":"YAVR Fehler",
+            
+            "power":"Power",
+            "slepp":"Slepp",
+            "enhancer":"Enhancer",
+            "online":"Online",
+            "input":"Eingang",
+            "surround ai":"Surround AI",
+            "dsp":"DSP",
+            "surround decoder":"Surround Decoder",
+            "cursor": "Cursor",
+            "cursor control": "Cursor Control",
+            "party" : "Partymodus",
+            "volume" : "Lautstäkre",
+            "mute":"Stumm",
+            "playback":"Wiedergabe",
+            "repeat":"Wiederholen",            
+            "shuffle":"Mischen",
+            "playtime":"Spielzeit",
+            "artist":"Künstler",
+            "album":"Album",
+            "track":"Titel",
+            "current cover": "Aktuelles Titelbild",
+            "radio band":"Radio Band",
+            "frequency":"Frequenz",
+            "memory":"Speicher",
+            "headphone":"Kopfhörer"
+        }
+    }
+}

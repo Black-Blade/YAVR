@@ -1,0 +1,12 @@
+{
+    "id": "{5EEE44B4-20D6-1FC6-4F58-99B5616E9B4B}",
+    "name": "YAVR",
+    "type": 3,
+    "vendor": "Black-Blade",
+    "aliases": [],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "YAVR",
+    "url": "https://github.com/Black-Blade/yavr.git"
+}
